@@ -1,0 +1,10 @@
+Creamos un archivo java con la libreria:
+  import net.sf.clipsrules.jni.*;
+  
+Creamos el enviroment:
+  Environment clips = new Environment();
+  
+Añadimos sentencias de clips:
+  clips.eval("(comando)");
+	clips.load("file.clp");
+	clips.run();
