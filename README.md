@@ -22,3 +22,7 @@ clips throuth a file
 	javac -cp lib/CLIPSJNI.jar src/persons.java -d classes/
 2.Executethe file:
 	java -cp lib/CLIPSJNI.jar;classes examples.clips.persons
+	
+**********************************************************************
+***************** https://youtu.be/Rsg2qm6iux0 ***********************
+**********************************************************************
